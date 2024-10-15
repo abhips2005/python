@@ -1,7 +1,7 @@
 '''
 Name:Abhijith S
 Project: To calculate the discount based on the bill amount
-Date: 05.10.2024
+Date: 15.10.2024
 Version: 1.0
 '''
 
