@@ -1,7 +1,7 @@
 '''
 Name:Abhijith S
 Project: To check whether a number is divisible by 5
-Date: 05.10.2024
+Date: 15.10.2024
 Version: 1.0
 '''
 
