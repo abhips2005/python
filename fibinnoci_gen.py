@@ -1,0 +1,2 @@
+import fibbinoci_series
+print(fibbinoci_series.fibbinoci_number_generator(5))
